@@ -1,5 +1,5 @@
 ---
-title: "Chatbot con OpenAI y Streamlit"
+title: "Chatbot con Streamlit"
 emoji: "🤖"
 colorFrom: "blue"
 colorTo: "green"
@@ -10,13 +10,13 @@ pinned: false
 
 # Chatbot con OpenAI y Streamlit
 
-Este es un chatbot simple construido utilizando OpenAI y Streamlit.
+Este es un chatbot simple construido utilizando LLAMA 3 400M y Streamlit.
 
 ## Cómo ejecutar localmente
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/tu-repo.git
+    git clone https://github.com/VicGerardoPR/chatbotStreamlit.git
     ```
 2. Instala las dependencias:
     ```bash
@@ -30,4 +30,4 @@ Este es un chatbot simple construido utilizando OpenAI y Streamlit.
 
 ## Desplegado en Hugging Face Spaces
 
-Puedes ver la aplicación desplegada en [Hugging Face Spaces](https://huggingface.co/spaces/tu-usuario/tu-space).
+Puedes ver la aplicación desplegada en [Hugging Face Spaces](VicGerardoPR/ChatBot).
